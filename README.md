@@ -1,6 +1,9 @@
-# Hi there 👋, I'm Stacey J. Kiprop, a data enthusiast specializing in data science, machine learning and deep learning. I enjoy working with data; cleaning, modeling and turning it into actionable insights.
+# Hi there 👋, I'm Stacey J. Kiprop
+
+I'm a data science enthusiast specializing in machine learning and deep learning. I love working with data; cleaning, modeling, and turning raw numbers into actionable insights.
 
 ---
+
 ### Tech Stack
 ### Databases
 ![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -22,5 +25,5 @@
 - Advanced Machine Learning Workflows & Feature Engineering
 
 ### Connect with me
--- **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/stacey-j-kiprop-5237b935a)
-- **Portfolio:** [yourportfolio.com]([https://yourportfolio.com](https://my-portfolio-mu-lac-54.vercel.app/))
+-- **LinkedIn:** [linkedin.com/in/myprofile](www.linkedin.com/in/stacey-j-kiprop-5237b935a)
+- **Portfolio:** [myportfolio.com]([https://yourportfolio.com](https://my-portfolio-mu-lac-54.vercel.app/))
