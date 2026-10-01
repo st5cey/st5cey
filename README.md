@@ -26,4 +26,4 @@ I'm a data science enthusiast specializing in machine learning and deep learning
 
 ### Connect with me
 -- **LinkedIn:** [linkedin.com/in/myprofile](www.linkedin.com/in/stacey-j-kiprop-5237b935a)
-- **Portfolio:** [myportfolio.com]([https://yourportfolio.com](https://my-portfolio-mu-lac-54.vercel.app/))
+- **Portfolio:** [myportfolio.com](https://my-portfolio-mu-lac-54.vercel.app/)
