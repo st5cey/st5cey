@@ -25,5 +25,5 @@ I'm a data science enthusiast specializing in machine learning and deep learning
 - Advanced Machine Learning Workflows & Feature Engineering
 
 ### Connect with me
-- **LinkedIn:** [linkedin.com/in/myprofile]([www.linkedin.com/in/stacey-j-kiprop-5237b935a](https://www.linkedin.com/in/stacey-j-kiprop-5237b935a/))
+- **LinkedIn:** [linkedin.com/in/myprofile](https://www.linkedin.com/in/stacey-j-kiprop-5237b935a/)
 - **Portfolio:** [myportfolio.com](https://my-portfolio-mu-lac-54.vercel.app/)
